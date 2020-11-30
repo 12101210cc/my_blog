@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "http://huang.taipei/exampleSite"
 languageCode = "en"
 title = "Soho Theme"
 DefaultContentLanguage = "en"
